@@ -1,3 +1,3 @@
 # Practice 0
 
-First practice description
+First practice description!
